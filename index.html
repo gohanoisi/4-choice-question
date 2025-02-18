@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>クイズアプリ</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- JSONファイル選択用コンテナ -->
+  <div id="selector-container">
+    <label for="json-selector">問題セットを選択してください: </label>
+    <select id="json-selector">
+      <option value="">-- 選択してください --</option>
+      <!-- 下記の option は script.js 内で自動生成される -->
+    </select>
+    <button id="load-btn">読み込む</button>
+  </div>
+
+  <!-- 問題を表示するコンテナ -->
+  <div id="quiz-container"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
