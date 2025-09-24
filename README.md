@@ -2,6 +2,7 @@
 4-choice-question
 
 ## DEMO
+以下のURLでデモ可能
 - GitHub Pages: https://gohanoisi.github.io/4-choice-question/  
 <img width="819" height="483" alt="image" src="https://github.com/user-attachments/assets/03d65314-29a1-42ee-a69b-932d54edf1b7" />
 
