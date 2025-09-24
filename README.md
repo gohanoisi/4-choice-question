@@ -24,7 +24,7 @@
 
 ## Installation
 ```
-git clone https://github.com/<YOUR_NAME>/4-choice-question.git
+git clone https://github.com/gohanoisi/4-choice-question.git
 cd 4-choice-question
 ```
 
